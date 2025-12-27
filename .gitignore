@@ -1,3 +1,6 @@
 venv/
 learn.txt
 .env
+.ipynb_checkpoints/
+RAG/.ipynb_checkpoints/
+api/.ipynb_checkpoints/
