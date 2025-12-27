@@ -403,7 +403,7 @@ qa.run("Your question here")
 
 ---
 
-## 14. Mental Checklist Before Production
+## 14. Checklist Before Production
 
 * [ ] Loader output clean?
 * [ ] Chunk size reasonable?
@@ -413,7 +413,7 @@ qa.run("Your question here")
 
 ---
 
-## Final Truth
+
 
 > **RAG is 80% retrieval quality, 20% LLM.**
 
