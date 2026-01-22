@@ -12,4 +12,6 @@ pypdf
 faiss-cpu
 langchain
 langchain-text-splitters
-
+wikipedia
+arxiv
+langchainhub
